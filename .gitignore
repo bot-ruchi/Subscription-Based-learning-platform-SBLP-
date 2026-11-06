@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+venv/
+.venv/
+.env
+.env.*
+!.env.example
+
+# React / Node
+node_modules/
+dist/
+
+# Generated certificates
+certificates/*.pdf
+
+# IDE
+.vscode/
+.idea/
